@@ -14,6 +14,10 @@ I'm currently Focusing on **Python**!
 - [ ] AI/ML Development
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
+### What I'm Working On 🏗️:
+Currently Working on [text-based RPG](https://github.com/duckyblarg/Text-Based-RPG/tree/main) as a first Project on GitHub!
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
 ### How to Reach Me
 You can reach me through the following:
 
