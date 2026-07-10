@@ -3,7 +3,7 @@
 I'm [duckyblarg](https://github.com/duckyblarg), a future software engineer interested in AI and Machine Learning.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
-### What im learning 🌱
+### What I'm Learning 🌱
 
 
 I'm currently Focusing on **Python**! 
@@ -14,7 +14,7 @@ I'm currently Focusing on **Python**!
 - [ ] AI/ML Development
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
-### How to reach me
+### How to Reach Me
 You can reach me through the following:
 
 - **Mail: Duckbloomlox@proton.me**
@@ -23,4 +23,4 @@ You can reach me through the following:
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
 ### Fun Facts
 - I love ducks (pretty obvious)
-- I'm probably more into Software Engineering than i should be
+- I'm probably more into Software Engineering than I should be
