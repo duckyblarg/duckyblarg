@@ -2,27 +2,25 @@
 
 I'm [duckyblarg](https://github.com/duckyblarg), a future software engineer interested in AI and Machine Learning.
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
 ### What im learning 🌱
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header)
-- [ ] Python: Basics <>
-- [ ] Csharp: Basics
+
+
+I'm currently Focusing on **Python**! 
+
+- [ ] **Python: Basics**
+- [ ] HTML: Basics
 - [ ] Javascript: Basics 
 - [ ] AI/ML Development
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
+### How to reach me
+You can reach me through the following:
 
+- **Mail: Duckbloomlox@proton.me**
+- **Discord: getcookied**
 
----
-<!--
-**duckyblarg/duckyblarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,100:4568dc&height=3&section=header)
+### Fun Facts
+- I love ducks (pretty obvious)
+- I'm probably more into Software Engineering than i should be
