@@ -8,8 +8,8 @@ I'm [duckyblarg](https://github.com/duckyblarg), a future software engineer inte
 
 I'm currently Focusing on **Python**! 
 
-- [ ] **Python: Basics**
-- [ ] HTML: Basics
+- [x] **Python: Basics**
+- [x] HTML: Basics
 - [ ] Javascript: Basics 
 - [ ] AI/ML Development
 
