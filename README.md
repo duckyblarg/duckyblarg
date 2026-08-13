@@ -6,7 +6,7 @@ I'm [duckyblarg](https://github.com/duckyblarg), a future software engineer inte
 ### What I'm Learning 🌱
 
 
-I'm currently Focusing on **Python**! 
+I'm currently Focusing on **HTML, CSS, and Javascript**! 
 
 - [x] **Python: Basics**
 - [x] HTML: Basics
